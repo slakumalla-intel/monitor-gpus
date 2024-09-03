@@ -1,0 +1,17 @@
+timestamp, name, stats.violation.power [nsec], stats.violation.thermal [nsec], clocks.current.soc [MHz], clocks.max.soc [MHz], clocks.limit.soc [MHz], clocks.limit.tpc [MHz], pcie.link.gen.max, pcie.link.gen.current, pcie.link.width.max, pcie.link.width.current, pcie.link.speed.max, pcie.link.speed.current
+Tue Sep  3 19:04:23 UTC 2024, HL-225, 846579915 nsec, 0 nsec, 1650 MHz, 1650 MHz, 1650 MHz, 1800 MHz, N/A, N/A, N/A, N/A, N/A, N/A
+Tue Sep  3 19:04:23 UTC 2024, HL-225, 1299795955 nsec, 0 nsec, 1584 MHz, 1650 MHz, 1650 MHz, 1800 MHz, N/A, N/A, N/A, N/A, N/A, N/A
+Tue Sep  3 19:04:25 UTC 2024, HL-225, 996564322 nsec, 0 nsec, 1650 MHz, 1650 MHz, 1650 MHz, 1800 MHz, N/A, N/A, N/A, N/A, N/A, N/A
+Tue Sep  3 19:04:26 UTC 2024, HL-225, 626019372 nsec, 0 nsec, 1650 MHz, 1650 MHz, 1650 MHz, 1800 MHz, N/A, N/A, N/A, N/A, N/A, N/A
+Tue Sep  3 19:04:28 UTC 2024, HL-225, 238406335 nsec, 0 nsec, 1617 MHz, 1650 MHz, 1650 MHz, 1800 MHz, N/A, N/A, N/A, N/A, N/A, N/A
+Tue Sep  3 19:04:30 UTC 2024, HL-225, 539299088 nsec, 0 nsec, 1650 MHz, 1650 MHz, 1650 MHz, 1800 MHz, N/A, N/A, N/A, N/A, N/A, N/A
+Tue Sep  3 19:04:31 UTC 2024, HL-225, 195777674 nsec, 0 nsec, 1650 MHz, 1650 MHz, 1650 MHz, 1800 MHz, N/A, N/A, N/A, N/A, N/A, N/A
+Tue Sep  3 19:04:33 UTC 2024, HL-225, 1573662950 nsec, 0 nsec, 1650 MHz, 1650 MHz, 1650 MHz, 1800 MHz, N/A, N/A, N/A, N/A, N/A, N/A
+Tue Sep  3 19:04:34 UTC 2024, HL-225, 1253684086 nsec, 0 nsec, 1650 MHz, 1650 MHz, 1650 MHz, 1800 MHz, N/A, N/A, N/A, N/A, N/A, N/A
+Tue Sep  3 19:04:36 UTC 2024, HL-225, 858244235 nsec, 0 nsec, 1650 MHz, 1650 MHz, 1650 MHz, 1800 MHz, N/A, N/A, N/A, N/A, N/A, N/A
+Tue Sep  3 19:04:37 UTC 2024, HL-225, 741807328 nsec, 0 nsec, 1650 MHz, 1650 MHz, 1650 MHz, 1800 MHz, N/A, N/A, N/A, N/A, N/A, N/A
+Tue Sep  3 19:04:39 UTC 2024, HL-225, 360991599 nsec, 0 nsec, 1650 MHz, 1650 MHz, 1650 MHz, 1800 MHz, N/A, N/A, N/A, N/A, N/A, N/A
+Tue Sep  3 19:04:40 UTC 2024, HL-225, 1575062470 nsec, 0 nsec, 1650 MHz, 1650 MHz, 1650 MHz, 1800 MHz, N/A, N/A, N/A, N/A, N/A, N/A
+Tue Sep  3 19:04:42 UTC 2024, HL-225, 1415721164 nsec, 0 nsec, 1600 MHz, 1650 MHz, 1650 MHz, 1800 MHz, N/A, N/A, N/A, N/A, N/A, N/A
+Tue Sep  3 19:04:43 UTC 2024, HL-225, 947662252 nsec, 0 nsec, 1650 MHz, 1650 MHz, 1650 MHz, 1800 MHz, N/A, N/A, N/A, N/A, N/A, N/A
+Tue Sep  3 19:04:45 UTC 2024, HL-225, 642500653 nsec, 0 nsec, 1650 MHz, 1650 MHz, 1650 MHz, 1800 MHz, N/A, N/A, N/A, N/A, N/A, N/A
